@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
-printf("I AM HITMAN");
+printf("CODE NAME 47");
 return 0;
 }
+
